@@ -17,7 +17,7 @@
 	</properties>
 
 	<modules>
-		
+		<module>dubbo-provider01</module>
 	</modules>
 
 	<dependencyManagement>
