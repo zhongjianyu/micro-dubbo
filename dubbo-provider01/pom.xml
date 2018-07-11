@@ -33,6 +33,12 @@
 			<groupId>com.alibaba.boot</groupId>
 			<artifactId>dubbo-spring-boot-actuator</artifactId>
 		</dependency>
+		<dependency>
+			<groupId>dubbo-parent</groupId>
+			<artifactId>dubbo-api01</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		
 
 	</dependencies>
 
