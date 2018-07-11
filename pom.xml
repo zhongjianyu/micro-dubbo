@@ -26,6 +26,8 @@
 
 	<modules>
 		<module>dubbo-provider01</module>
+		<module>dubbo-api01</module>
+		<module>dubbo-consumer01</module>
 	</modules>
 
 	<dependencyManagement>
